@@ -1,0 +1,14 @@
+body {
+    font-family: "Comic Sans MS", cursive, sans-serif;
+}
+h1, p {
+    width: 60%;
+    margin: auto;
+}
+.innehåll {
+    width: 100%;
+    margin: 0;
+}
+h1, h2, h3 {
+    color: red;
+}
